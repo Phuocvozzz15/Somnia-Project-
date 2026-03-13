@@ -1,0 +1,16 @@
+body{
+background: linear-gradient(135deg,#141e30,#243b55);
+font-family: Arial;
+color:white;
+text-align:center;
+padding-top:120px;
+}
+
+h1{
+font-size:45px;
+}
+
+p{
+font-size:20px;
+opacity:0.9;
+}
