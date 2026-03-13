@@ -1,17 +1,17 @@
-# Somnia Community Project
+# 🌙 Somnia Community Project
 
-This project supports the Somnia ecosystem and community.
-
-## About
-A small open source project created to support Somnia.
+A small open-source project supporting the Somnia ecosystem and community.
 
 ## Features
+
 - Simple website
 - JavaScript interaction
-- Community support project
+- Community contribution
 
 ## Vision
-Helping build the future of Somnia.
+
+Helping grow the Somnia ecosystem.
 
 ## Author
+
 GitHub: https://github.com/Phuocvozzz15
